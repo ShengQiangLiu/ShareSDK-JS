@@ -17,6 +17,7 @@
 		843CA8EE1C08558F00AEB78A /* ShareSDKJSBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = 843CA8ED1C08558F00AEB78A /* ShareSDKJSBridge.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		843CA8F11C0855F700AEB78A /* Sample.html in Resources */ = {isa = PBXBuildFile; fileRef = 843CA8EF1C0855F700AEB78A /* Sample.html */; };
 		843CA8F41C087CE500AEB78A /* ShareSDK.js in Resources */ = {isa = PBXBuildFile; fileRef = 843CA8F31C087CE500AEB78A /* ShareSDK.js */; };
+		843CA90B1C089D0800AEB78A /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 843CA90A1C089D0800AEB78A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		843CA8ED1C08558F00AEB78A /* ShareSDKJSBridge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShareSDKJSBridge.m; sourceTree = "<group>"; };
 		843CA8EF1C0855F700AEB78A /* Sample.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Sample.html; sourceTree = "<group>"; };
 		843CA8F31C087CE500AEB78A /* ShareSDK.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = ShareSDK.js; sourceTree = "<group>"; };
+		843CA90A1C089D0800AEB78A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C10F461945500FE13F9C4A86 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		D019D998038DFB0CE28E2784 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD01CA455B0BFD6CDEABA7FD /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 		843CA8D31C0852CA00AEB78A /* ShareSDK-JS */ = {
 			isa = PBXGroup;
 			children = (
+				843CA90A1C089D0800AEB78A /* README.md */,
 				843CA8EB1C08558000AEB78A /* ShareSDKForJS */,
 				843CA8D71C0852CA00AEB78A /* AppDelegate.h */,
 				843CA8D81C0852CA00AEB78A /* AppDelegate.m */,
@@ -248,6 +251,7 @@
 			files = (
 				843CA8EE1C08558F00AEB78A /* ShareSDKJSBridge.m in Sources */,
 				843CA8DC1C0852CA00AEB78A /* ViewController.m in Sources */,
+				843CA90B1C089D0800AEB78A /* README.md in Sources */,
 				843CA8D91C0852CA00AEB78A /* AppDelegate.m in Sources */,
 				843CA8D61C0852CA00AEB78A /* main.m in Sources */,
 			);
