@@ -278,6 +278,7 @@
 				6AD725F36E5B8A5635F78EE2CF8252DD /* Core */,
 				FDFA465ACD9F63E19042426CC4458B97 /* Extend */,
 				D020F2C1A9F292FB5B389B0AB533E391 /* Frameworks */,
+				1D290D486F60C385E4657DE6549DAE87 /* Resource.bundle */,
 				B5D42CCE2817F95F44BD73C88C613657 /* UI */,
 			);
 			path = ShareSDK2;
@@ -339,7 +340,6 @@
 		A17A7DA5532432BD21D0D716E14E3A0A /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				1D290D486F60C385E4657DE6549DAE87 /* Resource.bundle */,
 				C71B8C09C58FCE3981B63415B9D9B42D /* ShareSDKLocalizable.strings */,
 			);
 			name = Resources;
