@@ -238,13 +238,6 @@ static UIView *_refView = nil;
     }
 }
 
-//- (instancetype)init
-//{
-//    if (self = [super init]) {
-//        [self initWithWebView:nil];
-//    }
-//    return self;
-//}
 
 + (ShareSDKJSBridge *)bridgeWithWebView:(UIWebView *)webView
 {

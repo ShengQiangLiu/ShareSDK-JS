@@ -16,7 +16,7 @@
 		843CA8E41C0852CA00AEB78A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 843CA8E21C0852CA00AEB78A /* LaunchScreen.storyboard */; };
 		843CA8EE1C08558F00AEB78A /* ShareSDKJSBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = 843CA8ED1C08558F00AEB78A /* ShareSDKJSBridge.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		843CA8F11C0855F700AEB78A /* Sample.html in Resources */ = {isa = PBXBuildFile; fileRef = 843CA8EF1C0855F700AEB78A /* Sample.html */; };
-		843CA8F21C0855F700AEB78A /* ShareSDK.js in Resources */ = {isa = PBXBuildFile; fileRef = 843CA8F01C0855F700AEB78A /* ShareSDK.js */; };
+		843CA8F41C087CE500AEB78A /* ShareSDK.js in Resources */ = {isa = PBXBuildFile; fileRef = 843CA8F31C087CE500AEB78A /* ShareSDK.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +33,7 @@
 		843CA8EC1C08558F00AEB78A /* ShareSDKJSBridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShareSDKJSBridge.h; sourceTree = "<group>"; };
 		843CA8ED1C08558F00AEB78A /* ShareSDKJSBridge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShareSDKJSBridge.m; sourceTree = "<group>"; };
 		843CA8EF1C0855F700AEB78A /* Sample.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Sample.html; sourceTree = "<group>"; };
-		843CA8F01C0855F700AEB78A /* ShareSDK.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = ShareSDK.js; sourceTree = "<group>"; };
+		843CA8F31C087CE500AEB78A /* ShareSDK.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = ShareSDK.js; sourceTree = "<group>"; };
 		C10F461945500FE13F9C4A86 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		D019D998038DFB0CE28E2784 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD01CA455B0BFD6CDEABA7FD /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
@@ -95,7 +95,6 @@
 				843CA8DA1C0852CA00AEB78A /* ViewController.h */,
 				843CA8DB1C0852CA00AEB78A /* ViewController.m */,
 				843CA8EF1C0855F700AEB78A /* Sample.html */,
-				843CA8F01C0855F700AEB78A /* ShareSDK.js */,
 				843CA8DD1C0852CA00AEB78A /* Main.storyboard */,
 				843CA8E01C0852CA00AEB78A /* Assets.xcassets */,
 				843CA8E21C0852CA00AEB78A /* LaunchScreen.storyboard */,
@@ -116,6 +115,7 @@
 		843CA8EB1C08558000AEB78A /* ShareSDKForJS */ = {
 			isa = PBXGroup;
 			children = (
+				843CA8F31C087CE500AEB78A /* ShareSDK.js */,
 				843CA8EC1C08558F00AEB78A /* ShareSDKJSBridge.h */,
 				843CA8ED1C08558F00AEB78A /* ShareSDKJSBridge.m */,
 			);
@@ -184,10 +184,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				843CA8F11C0855F700AEB78A /* Sample.html in Resources */,
+				843CA8F41C087CE500AEB78A /* ShareSDK.js in Resources */,
 				843CA8E41C0852CA00AEB78A /* LaunchScreen.storyboard in Resources */,
 				843CA8E11C0852CA00AEB78A /* Assets.xcassets in Resources */,
 				843CA8DF1C0852CA00AEB78A /* Main.storyboard in Resources */,
-				843CA8F21C0855F700AEB78A /* ShareSDK.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
