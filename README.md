@@ -1,3 +1,5 @@
+iOS ShareSDK JS插件
+
 一、集成方式
 1、cocoapods方式集成标准版ShareSDK，参考下面文档：
 http://wiki.mob.com/cocoapods%E9%9B%86%E6%88%90sharesdk%E6%A0%87%E5%87%86%E7%89%88/
