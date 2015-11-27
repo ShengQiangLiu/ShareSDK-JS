@@ -1,0 +1,29 @@
+
+platform:ios,'7.0'
+
+pod 'ShareSDK2'
+# 新浪微博(可选)
+pod 'ShareSDK2/Connection/SinaWeibo'
+# 微信(可选)
+pod 'ShareSDK2/Connection/WeChat'
+# 腾讯QQ(可选)
+pod 'ShareSDK2/Connection/QQ'
+# QQ空间(可选)
+pod 'ShareSDK2/Connection/QZone'
+
+
+
+# UI模块(含所有UI样式,可选)
+pod 'ShareSDK2/UI'
+# iOS竖版默认分享UI(可选)
+pod 'ShareSDK2/UI/Flat'
+# iPad版默认分享视图(可选)
+pod 'ShareSDK2/UI/iPadDefault'
+# iPad版简单分享视图(可选)
+pod 'ShareSDK2/UI/iPadSimple'
+# iPhone版默认分享视图(可选)
+pod 'ShareSDK2/UI/iPhoneDefault'
+# iPhone版简单分享视图(可选)
+pod 'ShareSDK2/UI/iPhoneSimple'
+# iPhone版应用推荐视图(可选)
+pod 'ShareSDK2/UI/iPhoneAppRecommend'

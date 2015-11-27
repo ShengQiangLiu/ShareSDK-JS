@@ -1,0 +1,1 @@
+../../../../ShareSDK2/ShareSDK/Core/MOBFoundation.framework/Headers/MOBFString.h
