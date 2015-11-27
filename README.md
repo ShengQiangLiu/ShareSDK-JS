@@ -1,6 +1,7 @@
 一、集成方式
 1、cocoapods方式集成标准版ShareSDK，参考下面文档：
 http://wiki.mob.com/cocoapods%E9%9B%86%E6%88%90sharesdk%E6%A0%87%E5%87%86%E7%89%88/
+
 2、手动方式导入标准版ShareSDK，参考下面文档：
 http://wiki.mob.com/%E5%BF%AB%E9%80%9F%E9%9B%86%E6%88%90%E6%8C%87%E5%8D%97/
 
