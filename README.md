@@ -6,10 +6,7 @@ iOS ShareSDK标准版 JS插件
 
 http://wiki.mob.com/cocoapods%E9%9B%86%E6%88%90sharesdk%E6%A0%87%E5%87%86%E7%89%88/
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 910f427567351e4bccb1ae8ab4a615edba0a56e8
 2、手动方式导入标准版ShareSDK，参考下面文档：
 
 http://wiki.mob.com/%E5%BF%AB%E9%80%9F%E9%9B%86%E6%88%90%E6%8C%87%E5%8D%97/
