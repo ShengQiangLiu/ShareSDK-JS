@@ -1,4 +1,4 @@
-iOS ShareSDK JS插件
+iOS ShareSDK标准版 JS插件
 
 一、集成方式
 
