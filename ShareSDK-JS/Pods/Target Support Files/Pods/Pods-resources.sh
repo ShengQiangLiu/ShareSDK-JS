@@ -59,7 +59,8 @@ install_resource()
 }
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_resource "ShareSDK2/ShareSDK/Core/Resource.bundle"
-  install_resource "ShareSDK2/ShareSDK/Core/zh-Hans.lproj/ShareSDKLocalizable.strings"
+  install_resource "ShareSDK2/ShareSDK/Core/zh-Hans.lproj"
+  install_resource "ShareSDK2/ShareSDK/Core/en.lproj"
   install_resource "ShareSDK2/ShareSDK/Extend/QQConnectSDK/TencentOpenApi_IOS_Bundle.bundle"
   install_resource "ShareSDK2/ShareSDK/Extend/SinaWeiboSDK/WeiboSDK.bundle"
   install_resource "ShareSDK2/ShareSDK/UI/ShareSDKFlatShareViewUI.bundle"
@@ -70,7 +71,8 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_resource "ShareSDK2/ShareSDK/Core/Resource.bundle"
-  install_resource "ShareSDK2/ShareSDK/Core/zh-Hans.lproj/ShareSDKLocalizable.strings"
+  install_resource "ShareSDK2/ShareSDK/Core/zh-Hans.lproj"
+  install_resource "ShareSDK2/ShareSDK/Core/en.lproj"
   install_resource "ShareSDK2/ShareSDK/Extend/QQConnectSDK/TencentOpenApi_IOS_Bundle.bundle"
   install_resource "ShareSDK2/ShareSDK/Extend/SinaWeiboSDK/WeiboSDK.bundle"
   install_resource "ShareSDK2/ShareSDK/UI/ShareSDKFlatShareViewUI.bundle"

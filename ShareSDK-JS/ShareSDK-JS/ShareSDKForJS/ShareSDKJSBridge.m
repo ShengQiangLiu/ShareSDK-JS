@@ -432,6 +432,7 @@ static UIView *_refView = nil;
         appKey = [params objectForKey:@"appKey"];
     }
     [ShareSDK registerApp:appKey];
+
     
     BOOL statEnable = YES;
     if ([[params objectForKey:@"enableStatistics"] isKindOfClass:[NSNumber class]])

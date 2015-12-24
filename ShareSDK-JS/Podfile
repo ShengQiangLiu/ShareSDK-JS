@@ -2,6 +2,9 @@
 platform:ios,'7.0'
 
 pod 'ShareSDK2'
+
+pod 'MOBFoundation'
+
 # 新浪微博(可选)
 pod 'ShareSDK2/Connection/SinaWeibo'
 # 微信(可选)

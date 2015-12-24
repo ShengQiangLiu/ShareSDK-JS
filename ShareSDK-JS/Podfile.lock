@@ -1,33 +1,35 @@
 PODS:
-  - ShareSDK2 (2.12.1):
-    - ShareSDK2/Core (= 2.12.1)
-  - ShareSDK2/Connection/QQ (2.12.1):
+  - MOBFoundation (1.3.0)
+  - ShareSDK2 (2.12.4):
+    - ShareSDK2/Core (= 2.12.4)
+  - ShareSDK2/Connection/QQ (2.12.4):
     - ShareSDK2/Extend/QQConnectSDK
-  - ShareSDK2/Connection/QZone (2.12.1):
+  - ShareSDK2/Connection/QZone (2.12.4):
     - ShareSDK2/Extend/QQConnectSDK
-  - ShareSDK2/Connection/SinaWeibo (2.12.1):
+  - ShareSDK2/Connection/SinaWeibo (2.12.4):
     - ShareSDK2/Extend/SinaWeiboSDK
-  - ShareSDK2/Connection/WeChat (2.12.1):
+  - ShareSDK2/Connection/WeChat (2.12.4):
     - ShareSDK2/Extend/WeChatSDK
-  - ShareSDK2/Core (2.12.1)
-  - ShareSDK2/Extend/QQConnectSDK (2.12.1)
-  - ShareSDK2/Extend/SinaWeiboSDK (2.12.1)
-  - ShareSDK2/Extend/WeChatSDK (2.12.1)
-  - ShareSDK2/UI (2.12.1):
-    - ShareSDK2/UI/Flat (= 2.12.1)
-    - ShareSDK2/UI/iPadDefault (= 2.12.1)
-    - ShareSDK2/UI/iPadSimple (= 2.12.1)
-    - ShareSDK2/UI/iPhoneAppRecommend (= 2.12.1)
-    - ShareSDK2/UI/iPhoneDefault (= 2.12.1)
-    - ShareSDK2/UI/iPhoneSimple (= 2.12.1)
-  - ShareSDK2/UI/Flat (2.12.1)
-  - ShareSDK2/UI/iPadDefault (2.12.1)
-  - ShareSDK2/UI/iPadSimple (2.12.1)
-  - ShareSDK2/UI/iPhoneAppRecommend (2.12.1)
-  - ShareSDK2/UI/iPhoneDefault (2.12.1)
-  - ShareSDK2/UI/iPhoneSimple (2.12.1)
+  - ShareSDK2/Core (2.12.4)
+  - ShareSDK2/Extend/QQConnectSDK (2.12.4)
+  - ShareSDK2/Extend/SinaWeiboSDK (2.12.4)
+  - ShareSDK2/Extend/WeChatSDK (2.12.4)
+  - ShareSDK2/UI (2.12.4):
+    - ShareSDK2/UI/Flat (= 2.12.4)
+    - ShareSDK2/UI/iPadDefault (= 2.12.4)
+    - ShareSDK2/UI/iPadSimple (= 2.12.4)
+    - ShareSDK2/UI/iPhoneAppRecommend (= 2.12.4)
+    - ShareSDK2/UI/iPhoneDefault (= 2.12.4)
+    - ShareSDK2/UI/iPhoneSimple (= 2.12.4)
+  - ShareSDK2/UI/Flat (2.12.4)
+  - ShareSDK2/UI/iPadDefault (2.12.4)
+  - ShareSDK2/UI/iPadSimple (2.12.4)
+  - ShareSDK2/UI/iPhoneAppRecommend (2.12.4)
+  - ShareSDK2/UI/iPhoneDefault (2.12.4)
+  - ShareSDK2/UI/iPhoneSimple (2.12.4)
 
 DEPENDENCIES:
+  - MOBFoundation
   - ShareSDK2
   - ShareSDK2/Connection/QQ
   - ShareSDK2/Connection/QZone
@@ -42,6 +44,7 @@ DEPENDENCIES:
   - ShareSDK2/UI/iPhoneSimple
 
 SPEC CHECKSUMS:
-  ShareSDK2: 4f0e2c280f95e98151c74deaa52085cde640952f
+  MOBFoundation: 6c95e7382d534c74d4b9dc9850cf84acfe0a1f1c
+  ShareSDK2: cfe71b8d026bf8f7d592396ab195937bc89bbead
 
 COCOAPODS: 0.39.0
